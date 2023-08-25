@@ -50,5 +50,19 @@ Through Core Data’s Data Model editor, you define your data’s types and rela
 [Official Doc](https://developer.apple.com/documentation/coredata)
 
 
+## Core Data Limitations
+
+Even though Core Data is a fantastic framework, there are several drawbacks. These drawbacks are directly related to the nature of the framework and how it works.
+
+Core Data can only do its magic because it keeps the object graph it manages in memory. This means that it can only operate on records once they’re in memory. This is very different from performing a SQL query on a database. If you want to delete thousands of records, Core Data first needs to load each record into memory. It goes without saying that this results in memory and performance issues if done incorrectly.
+
+Another important limitation is the threading model of Core Data. The framework expects to be run on a single thread. Fortunately, Core Data has evolved dramatically over the years and the framework has put various solutions in place to make working with Core Data in a multithreaded environment safer and easier.
+
+For applications that need to manage a complex object graph, Core Data is a great fit. If you only need to store a handful of unrelated objects, then you may be better off with a lightweight solution or the user defaults system.
+
+[Ref](https://medium.com/@ankurvekariya/core-data-crud-with-swift-4-2-for-beginners-40efe4e7d1cc)
+
+
+
 
 
