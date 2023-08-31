@@ -64,5 +64,17 @@ For applications that need to manage a complex object graph, Core Data is a grea
 
 
 
+## Realm
+
+The Realm Mobile Database is a fast, scalable alternative to Core Data and SQLite that makes storing, querying, and syncing data simple for modern mobile applications. The object-oriented data model enables developers to work directly with native objects – no ORMs or DAOs are required. And built-in 
+edge-to-cloud data sync lets developers easily backup, manage, and analyze mobile app data in the cloud, using the full power of 
+MongoDB Atlas. The Realm SDKs are open source and are available for most popular languages, frameworks, and platforms. Realm uses C++ at its core. 
+
+The advantages of Realm stem from its modernity. Apart from having an easy installation, Realm is faster than SQLite and CoreData. 
+
+
+
+
+
 
 
