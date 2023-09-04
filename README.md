@@ -79,8 +79,7 @@ SQLite is the most used database engine in the world. The database is organicall
 
 There are a couple of reasons why developers choose to use SQLite. Some consider it to be the best database for their iOS app because of its easy implementation. For instance, as it is lightweight, embedding the software into devices such as mobile phones and digital cameras is a breeze. There’s also no installation needed and zero configuration. 
 
-**SQLite has some advantages:
-**
+**SQLite has some advantages:**
 - Shipped with iOS, it adds no overhead to your app’s bundle.
 - SQLite released version 1.0 in August 2000, so it’s tried and tested.
 - It’s well-maintained with frequent releases.
