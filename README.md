@@ -77,9 +77,18 @@ The advantages of Realm stem from its modernity. Apart from having an easy insta
 
 SQLite is the most used database engine in the world. The database is organically integrated into the app in turn for running as a separate service or in the background. SQLite is also very lightweight. 
 
-There are a couple of reasons why developers choose to use SQLite. Some consider it to be the best database for their iOS app because of its easy implementation. For instance, as it is lightweight, embedding the software into devices such as mobile phones and digital cameras is a breeze. There’s also no installation needed and zero-configuration. 
+There are a couple of reasons why developers choose to use SQLite. Some consider it to be the best database for their iOS app because of its easy implementation. For instance, as it is lightweight, embedding the software into devices such as mobile phones and digital cameras is a breeze. There’s also no installation needed and zero configuration. 
 
 
+## Conclusion
+
+With every decision comes some gives and takes. Speed, size, and scalability should be the core concerns for the database you have in mind. 
+
+- SQLite may be the slowest database but it's also the most standard. Anyone familiar with databases is familiar with SQL. Therefore,  SQLite can provide developers with a classic and favorable database.
+
+- That said, Realm can offer some contemporary advantages in the form of speed and scalability. In fact, when it comes to speed, Realm is at the top of its game, especially when compared to Core Data and SQLite.
+
+- Core Data, in contrast, is not a database. But it is beneficial all the same. It can save time for developers by condensing the development process and reducing code. 
 
 
 
