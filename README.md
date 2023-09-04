@@ -73,6 +73,13 @@ MongoDB Atlas. The Realm SDKs are open source and are available for most popular
 The advantages of Realm stem from its modernity. Apart from having an easy installation, Realm is faster than SQLite and CoreData. 
 
 
+## SQLite
+
+SQLite is the most used database engine in the world. The database is organically integrated into the app in turn for running as a separate service or in the background. SQLite is also very lightweight. 
+
+There are a couple of reasons why developers choose to use SQLite. Some consider it to be the best database for their iOS app because of its easy implementation. For instance, as it is lightweight, embedding the software into devices such as mobile phones and digital cameras is a breeze. There’s also no installation needed and zero-configuration. 
+
+
 
 
 
