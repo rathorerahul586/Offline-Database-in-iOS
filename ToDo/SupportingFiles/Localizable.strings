@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by Rahul Kumar on 31/08/23.
+  
+*/
+"todo" = "Todo";
+"noOverdue" = "No Overdue";
+"noOverdueSubTitle" = "There is no overdue task.";
+"noIncomplete" = "No Incomplete";
+"noIncompleteSubtitle" = "There is no incomplete task. Click on + button to add new task to do.";
+"noCompleted" = "No Completed";
+"noCompletedSubtitle" = "You have not marked any task as completed.";
+"overdue" = "Overdue";
+"incomplete" = "Incomplete";
+"completed" = "Completed";
+"delete_message" = "Are you sure want to delete this task?";
+"cancel" = "Cancel";
+"yesDelete" = "Yes, Delete";
+"completedMessage" = "Is this task completed?";
+"notCompletedMessage" = "Is this task not completed?";
+"yes" = "Yes";
+"descriptionHint" = "Add some more details...";
+"addTodo" = "Add Todo";
+"titleHint" = "What to do?";
+"saveTodo" = "Save Todo";
+"delete" = "Delete";
+"markAsCompleted" = "Mark as Completed";
+"markAsIncomplete" = "Mark as Incomplete";
+"createdAt" = "Created At:";
+"lastUpdatedAt:" = "Last Updated At:";
+"chooseDatabase" = "Choose Database";
+"coreData" = "Core Data";
+"realm" = "Realm";
+"sqlite" = "SQLite";
+"grdb" = "GRDB";
