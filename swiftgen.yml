@@ -1,0 +1,14 @@
+strings:
+  inputs:
+    - ToDO/SupportingFiles/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: ToDO/SwiftGen/Strings.swift
+      
+xcassets:
+  inputs:
+    - ToDO/SupportingFiles/Assets.xcassets
+    - ToDO/SupportingFiles/Colors.xcassets
+  outputs:
+    - templateName: swift5
+      output: ToDO/SwiftGen/Assets.swift

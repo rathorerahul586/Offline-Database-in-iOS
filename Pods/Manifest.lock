@@ -1,0 +1,46 @@
+PODS:
+  - GRDB.swift (6.17.0):
+    - GRDB.swift/standard (= 6.17.0)
+  - GRDB.swift/standard (6.17.0)
+  - Realm (10.42.1):
+    - Realm/Headers (= 10.42.1)
+  - Realm/Headers (10.42.1)
+  - RealmSwift (10.42.1):
+    - Realm (= 10.42.1)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SwiftGen (6.6.2)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - RealmSwift
+  - RxCocoa
+  - RxSwift
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - GRDB.swift
+    - Realm
+    - RealmSwift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  GRDB.swift: ce9da57719de2b5e786455ed99629506fcb19c98
+  Realm: f433b80a05f68575e88364d6fcc6234965ccc5af
+  RealmSwift: 757e1416e2314f7e1543abdb2aa65b311d7b6545
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SwiftGen: 1366a7f71aeef49954ca5a63ba4bef6b0f24138c
+
+PODFILE CHECKSUM: 716286734d04db0a3ea02f3230cb024cac287baa
+
+COCOAPODS: 1.12.1
