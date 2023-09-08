@@ -1,8 +1,5 @@
 # Offline-Database-in-iOS
 
-
-# Project Title
-
 Storing data offline in iOS can be done using various storage mechanisms depending on your specific use case and requirements. Here are some options:
 
 1. **UserDefaults:**
